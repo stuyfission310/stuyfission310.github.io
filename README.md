@@ -1,1 +1,2 @@
-# stuyfission310.github.io
+# SIGHT
+Free Responsive Web Template
